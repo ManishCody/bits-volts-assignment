@@ -24,7 +24,6 @@ dist-ssr
 *.sw?
 
 /src/components/Footer
-/src/components/Services
 /src/components/Testimonials
 /src/components/WorkingProcess
 /src/components/Footer
