@@ -1,12 +1,48 @@
-# React + Vite
+# 🚀 My App
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+[![Vite](https://img.shields.io/badge/built%20with-vite-646CFF.svg?style=flat&logo=vite)](https://vitejs.dev/)
+[![React](https://img.shields.io/badge/react-18.2.0-61DAFB?style=flat&logo=react)](https://reactjs.org/)
+[![Tailwind CSS](https://img.shields.io/badge/tailwindcss-3.4.16-38B2AC?style=flat&logo=tailwind-css)](https://tailwindcss.com/)
+[![License: MIT](https://img.shields.io/badge/license-MIT-yellow.svg)](LICENSE)
 
-Currently, two official plugins are available:
+A modern React application powered by **Vite**, styled with **Tailwind CSS**, and managed with **Yarn**. Fast, minimal, and flexible ✨
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+---
 
-## Expanding the ESLint configuration
+## 🧩 Features
 
-If you are developing a production application, we recommend using TypeScript and enable type-aware lint rules. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+- ⚡️ Vite for lightning-fast dev server
+- 🎨 Tailwind CSS for styling
+- 🔁 Shadcn UI components
+- 🎠 Embla Carousel for smooth sliders
+- 🧭 React Router for navigation
+- 🌈 Lucide icons for clean UI
+- 📦 Yarn for package management
+- 💅 ESLint setup with TypeScript support
+
+---
+
+## 📦 Installation
+
+```bash
+git clone https://github.com/your-username/my-app.git
+cd my-app
+yarn install
+
+## 📦 Dependencies
+
+```json
+{
+  "react": "18.2.0",
+  "react-dom": "18.2.0",
+  "react-router-dom": "6.8.1",
+  "@radix-ui/react-accordion": "1.2.1",
+  "@radix-ui/react-separator": "1.1.0",
+  "@radix-ui/react-slot": "1.1.0",
+  "clsx": "^2.1.1",
+  "class-variance-authority": "^0.7.1",
+  "lucide-react": "^0.487.0",
+  "tailwind-merge": "^3.2.0",
+  "tailwindcss-animate": "^1.0.7",
+  "embla-carousel-react": "^8.6.0"
+}
