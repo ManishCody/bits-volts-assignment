@@ -28,6 +28,7 @@ A modern React application powered by **Vite**, styled with **Tailwind CSS**, an
 git clone https://github.com/your-username/my-app.git
 cd my-app
 yarn install
+yarn dev
 
 ## 📦 Dependencies
 
